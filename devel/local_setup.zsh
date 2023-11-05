@@ -1,0 +1,1 @@
+/home/ws/crawler_detection/devel/.private/catkin_tools_prebuild/local_setup.zsh

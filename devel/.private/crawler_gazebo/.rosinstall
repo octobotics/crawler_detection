@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ws/crawler_detection/devel/.private/crawler_gazebo/setup.sh

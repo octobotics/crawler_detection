@@ -1,0 +1,1 @@
+/home/ws/crawler_detection/devel/.private/detectron2ros/share/roseus/ros/detectron2ros/manifest.l

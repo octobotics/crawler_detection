@@ -1,0 +1,6 @@
+devel_space: /home/ws/crawler_detection/devel
+install: false
+install_space: /home/ws/crawler_detection/install
+profile: default
+source_space: /home/ws/crawler_detection/src
+workspace: /home/ws/crawler_detection

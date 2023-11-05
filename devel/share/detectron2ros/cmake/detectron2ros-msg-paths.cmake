@@ -1,0 +1,1 @@
+/home/ws/crawler_detection/devel/.private/detectron2ros/share/detectron2ros/cmake/detectron2ros-msg-paths.cmake

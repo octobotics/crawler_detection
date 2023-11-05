@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ws/crawler_detection/install/setup.sh

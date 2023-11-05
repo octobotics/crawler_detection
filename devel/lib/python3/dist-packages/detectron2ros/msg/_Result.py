@@ -1,0 +1,1 @@
+/home/ws/crawler_detection/devel/.private/detectron2ros/lib/python3/dist-packages/detectron2ros/msg/_Result.py

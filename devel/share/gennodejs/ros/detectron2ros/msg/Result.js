@@ -1,0 +1,1 @@
+/home/ws/crawler_detection/devel/.private/detectron2ros/share/gennodejs/ros/detectron2ros/msg/Result.js

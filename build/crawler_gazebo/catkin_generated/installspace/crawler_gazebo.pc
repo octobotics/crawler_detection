@@ -1,0 +1,8 @@
+prefix=/home/ws/crawler_detection/install
+
+Name: crawler_gazebo
+Description: Description of crawler_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

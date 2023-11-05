@@ -1,0 +1,8 @@
+prefix=/home/ws/crawler_detection/devel/.private/detectron2ros
+
+Name: detectron2ros
+Description: Description of detectron2ros
+Version: 0.1.0
+Cflags: -I/home/ws/crawler_detection/devel/.private/detectron2ros/include
+Libs: -L${prefix}/lib 
+Requires: 

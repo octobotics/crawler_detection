@@ -1,0 +1,1 @@
+/home/ws/crawler_detection/devel/.private/detectron2ros/share/common-lisp/ros/detectron2ros/msg/_package.lisp

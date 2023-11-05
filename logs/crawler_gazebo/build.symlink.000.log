@@ -1,0 +1,5 @@
+Symlinking /home/ws/crawler_detection/devel/share/crawler_gazebo/cmake/crawler_gazeboConfig-version.cmake
+Symlinking /home/ws/crawler_detection/devel/share/crawler_gazebo/cmake/crawler_gazeboConfig.cmake
+Symlinking /home/ws/crawler_detection/devel/lib/pkgconfig/crawler_gazebo.pc
+Symlinking /home/ws/crawler_detection/devel/lib/crawler_gazebo/keyboard_teleop.py
+Symlinking /home/ws/crawler_detection/devel/lib/crawler_gazebo/cmake.lock
